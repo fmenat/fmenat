@@ -23,16 +23,16 @@ Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María 
 
 Here I share the different areas where I had working on:
 
-* Crowdsourcing: I explore this topic during my Master's thesis under the supervision of professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:
-> Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)
-> Conference Paper: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_46)
-> Small library: [PyLearningCrowds](https://github.com/fmenat/PyLearningCrowds)
+* Crowdsourcing: I explore this topic during my Master's thesis under the supervision of professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:  
+> Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)  
+> Conference Paper: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_46)  
+> Small library: [PyLearningCrowds](https://github.com/fmenat/PyLearningCrowds)  
 
-* Astroinformatics: I explore this topic during my involvement with ChiVO and with the collaboration with professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php). You can find my different contributions to the scientific community here:
-> Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)
-> Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)
+* Astroinformatics: I explore this topic during my involvement with ChiVO and with the collaboration with professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php). You can find my different contributions to the scientific community here:  
+> Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
+> Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
 
-* Similarity Search: I explore this topic in a course project of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with professor Ricardo Ñanculef. You can find my different contributions to the scientific community here:
-> Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013)
-> Confenrece papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)
+* Similarity Search: I explore this topic in a course project of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with professor Ricardo Ñanculef. You can find my different contributions to the scientific community here:  
+> Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013)  
+> Confenrece papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  
 
