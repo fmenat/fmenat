@@ -13,7 +13,7 @@
 * Socials: __[Twitter](https://twitter.com/fmenat14)__
 * __[Zotero](https://www.zotero.org/fmenat)__
 
-> Currently, you can reach me at <img src="https://render.githubusercontent.com/render/math?math=\text{francisco.menat@usm.cl}">
+> Currently, you can reach me at <img src="https://render.githubusercontent.com/render/math?math=\text{Francisco_Alejandro.Mena_Toro@dfki.de}"> or <img src="https://render.githubusercontent.com/render/math?math=\text{famenatoro@gmail.com}">
 
 ### Want to know me a bit more?
 
