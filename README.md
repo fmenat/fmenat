@@ -34,5 +34,5 @@ Here I share the different areas where I had working on:
 
 * Similarity Search: I explore this topic in a course project of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with professor Ricardo Ñanculef. You can find my different contributions to the scientific community here:  
 > Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013)  
-> Confenrece papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  
+> Conference papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  
 
