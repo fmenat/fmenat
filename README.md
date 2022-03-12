@@ -17,7 +17,7 @@
 
 ### Want to know me a bit more?
 
-Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María Technical University (UTFSM) in Chile, where he also studies his Bachelor of Science in the field of Computer Engineering specializing in Artificial Intelligence. Always with an interest in building automated systems that help society, he joined the Chilean Virtual Observatory (CHiVO) during undergraduate studies in 2017. During the study of his Master's degree, he explores three different areas using Artificial Intelligence: Crowdsourcing, Astroinformatics, and Information Retrieval (Similarity Search). Finalizing his Master's degree he start working as Part-time Lecturer at the same institution where he studied (UTFSM) in 2020, teaching the course of Computational Statistic and Artificial Neural Network.
+Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María Technical University (UTFSM) in Chile, where he also studies his Bachelor of Science in the field of Computer Engineering specializing in Artificial Intelligence. Always with an interest in building automated systems that help society, he joined the Chilean Virtual Observatory (CHiVO) during undergraduate studies in 2017. During the study of his Master's degree from 2018, he explores three different areas using Artificial Intelligence: Crowdsourcing, Astroinformatics, and Information Retrieval (Similarity Search). Finalizing his Master's degree he start working as Part-time Lecturer at the same institution where he studied (UTFSM) in 2020, teaching the course of Computational Statistic and Artificial Neural Network.
 
 ##### More interested in my profile?
 
