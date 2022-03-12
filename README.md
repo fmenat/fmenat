@@ -28,7 +28,7 @@ Here I share the different areas where I had working on:
 > Conference Paper: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_46)  
 > Small library: [PyLearningCrowds](https://github.com/fmenat/PyLearningCrowds)  
 
-* Astroinformatics: I explore this topic during my involvement with ChiVO and with the collaboration with professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php). You can find my different contributions to the scientific community here:  
+* Astroinformatics: I explore this topic during my involvement with ChiVO and with the collaboration of professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php). You can find my different contributions to the scientific community here:  
 > Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
 > Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
 
