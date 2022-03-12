@@ -1,8 +1,9 @@
 ## Hi there 👋, I am Francisco Mena
+---
 
 ```PhD student in Computer Science at Technical University of Kaiserslautern (TUK) & working at German Research Centre for Artificial Intelligence (DFKI) in Germany```
 > MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)  
-> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
+>> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
 
 #### Links 
 
@@ -14,6 +15,7 @@
 * __[Zotero](https://www.zotero.org/fmenat)__
 
 > Currently, you can reach me at <img src="https://render.githubusercontent.com/render/math?math=\text{Francisco_Alejandro.Mena_Toro@dfki.de}"> or <img src="https://render.githubusercontent.com/render/math?math=\text{famenatoro@gmail.com}">
+---
 
 ### Want to know me a bit more?
 
