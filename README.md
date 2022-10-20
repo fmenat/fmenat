@@ -35,7 +35,7 @@ Here I share the different areas where I had working on:
 > Journal paper: [CLEI-EJ 29'](https://doi.org/10.19153/cleiej.22.3.3), [Astronomy and Computing 21'](http://dx.doi.org/10.1016/j.ascom.2021.100461), [Signals 21'](http://dx.doi.org/10.3390/signals2040042)  
 > Confernece paper: [CLEI 18'](https://doi.org/10.1109/CLEI.2018.00041)  
 
-* Similarity Search: I explore this topic in a course project of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with professor Ricardo Ñanculef. You can find my different contributions to the scientific community here:  
+* Similarity Search: I explore this topic in a course project of professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295) and with a recently collaboration with the Univ. of Bologna. You can find my different contributions to the scientific community here:  
 > Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013)  
 > Conference papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  
 
