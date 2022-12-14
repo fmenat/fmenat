@@ -1,22 +1,24 @@
 ## Hi there 👋, I am Francisco Mena
 ---
 
-```PhD candidate in Computer Science at Technical University of Kaiserslautern (TUK) & working at German Research Centre for Artificial Intelligence (DFKI) in Germany```
+```PhD candidate in Computer Science at Technical University of Kaiserslautern (TUK) & part-time working at German Research Centre for Artificial Intelligence (DFKI) in Germany :de:```
 > MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)  
 >> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
 
 #### Links 
 
-* __[ResearchGate](https://www.researchgate.net/profile/Francisco-Mena-3)__
+*  __[ResearchGate](https://www.researchgate.net/profile/Francisco-Mena-3)__
 * __[LinkedIN](https://www.linkedin.com/in/fmenat/)__
-* Academic: __[Google Scholar](https://scholar.google.com/citations?user=KMyi5JQAAAAJ)__ | __[ORCID 0000-0002-5004-6571](https://orcid.org/0000-0002-5004-6571)__
-* Code: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
-* Socials: __[Twitter](https://twitter.com/fmenat14)__
-* __[Zotero](https://www.zotero.org/fmenat)__
-* __[Working Profile](https://www.dfki.de/en/web/about-us/employee/person/frme01)__
+* :mortar_board: Academic: __[Google Scholar](https://scholar.google.com/citations?user=KMyi5JQAAAAJ)__ | __[ORCID 0000-0002-5004-6571](https://orcid.org/0000-0002-5004-6571)__
+* :computer: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
+* :busts_in_silhouette: Socials: __[Twitter](https://twitter.com/fmenat14)__
+* :books: __[Zotero](https://www.zotero.org/fmenat)__
+* :office: __[Working Profile](https://www.dfki.de/en/web/about-us/employee/person/frme01)__
 
-> Currently, you can reach me at <img src="https://render.githubusercontent.com/render/math?math=\text{Francisco_Alejandro.Mena_Toro@dfki.de}"> or <img src="https://render.githubusercontent.com/render/math?math=\text{famenatoro@gmail.com}">
+> Currently, you can reach me at :mailbox_with_mail: <img src="https://render.githubusercontent.com/render/math?math=\text{Francisco_Alejandro.Mena_Toro@dfki.de}"> or <img src="https://render.githubusercontent.com/render/math?math=\text{famenatoro@gmail.com}">
 ---
+
+Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
 
 ### Want to know me a bit more?
 
