@@ -6,8 +6,8 @@
 >> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
 
 #### Links 
-* :microscope: __[ResearchGate](https://www.researchgate.net/profile/Francisco-Mena-3)__,  __[LinkedIN](https://www.linkedin.com/in/fmenat/)__,  :office: __[Working Profile](https://www.dfki.de/en/web/about-us/employee/person/frme01)__
-* :mortar_board: __[Google Scholar](https://scholar.google.com/citations?user=jl736ssAAAA)__ | __[ORCID 0000-0002-5004-6571](https://orcid.org/0000-0002-5004-6571)__, :books: __[Zotero](https://www.zotero.org/fmenat)__
+* :microscope: __[ResearchGate](https://www.researchgate.net/profile/Francisco-Mena-3)__ |  __[LinkedIN](https://www.linkedin.com/in/fmenat/)__ |  :office: __[Working Profile](https://www.dfki.de/en/web/about-us/employee/person/frme01)__
+* :mortar_board: __[Google Scholar](https://scholar.google.com/citations?user=jl736ssAAAA)__ | __[ORCID 0000-0002-5004-6571](https://orcid.org/0000-0002-5004-6571)__ | :books: __[Zotero](https://www.zotero.org/fmenat)__
 * :computer: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
 * :busts_in_silhouette: __[Twitter](https://twitter.com/fmenat14)__
 
