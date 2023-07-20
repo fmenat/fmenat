@@ -26,7 +26,7 @@ Here I share the different areas where I had working on:
 
 * Artificial Intelligence for Earth Observation: I started to explore this topic at the start of my PhD inside the [ESALab group](https://www.ai4eo-factory.de/en-index.html) at DFKI under the supervision of Professor [Andreas Dengel](https://www.dfki.uni-kl.de/~dengel/indexEng.php) and co-supervisor Diego Arenas.
 > Survey Paper (under review): [Arxiv preprint](https://arxiv.org/abs/2301.01200)  
-> Conference paper: [IGARSS 23'](https://2023.ieeeigarss.org/view_paper.php?PaperNum=2532) ([slides](./presentations/) , [code](https://github.com/fmenat/MultiviewCropClassification))  
+> Conference paper: [IGARSS 23'](https://2023.ieeeigarss.org/view_paper.php?PaperNum=2532) ([slides](./presentations/2023_IGARSS_MVC.pdf) , [code](https://github.com/fmenat/MultiviewCropClassification))  
 
 * Crowdsourcing: I started to explore this topic during my Master's thesis under the supervision of Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:  
 > Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)  ([code](https://github.com/FMena14/MixtureofGroups))  
