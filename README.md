@@ -11,18 +11,18 @@
 * :computer: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
 * :busts_in_silhouette: __[Twitter](https://twitter.com/fmenat14)__
 
-> Currently, you can reach me at:mailbox_with_mail: *f.menat@rptu.de* | *francisco_alejandro.mena_toro@dfki.de* | *famenatoro@gmail.com*
+> Currently, you can reach me at:mailbox_with_mail: *f.menat@rptu.de* | *francisco_alejandro.mena_toro@dfki.de*
 ---
 
 Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
 
 ### Want to know me a bit more?
 
-Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María Technical University (UTFSM, in Chile) where he also studied for his Bachelor of Science in the field of Computer Engineering specializing in Artificial Intelligence. Always interested in building automated systems that help society, he joined the Chilean Virtual Observatory (CHiVO) during his undergraduate studies in 2017. Later during the Master's program (from 2018) he explores three different areas using Artificial Intelligence: Crowdsourcing, Astroinformatics, and Information Retrieval (Similarity Search). Once he obtained his Master's degree he start working as a Part-time Lecturer at the same institution where he studied (UTFSM) in 2020, teaching the course Computational Statistics and Artificial Neural Networks.
+Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María Technical University (UTFSM, in Chile) where he also studied for his Bachelor of Science in the field of Computer Engineering specializing in Artificial Intelligence. Always interested in building automated systems that help society, he joined the Chilean Virtual Observatory (CHiVO) during his undergraduate studies in 2017. Later during the Master's program (from 2018) he explored three different areas using Artificial Intelligence: Crowdsourcing, Astroinformatics, and Information Retrieval (Similarity Search). Once he obtained his Master's degree he started working as a Part-time Lecturer at the same institution where he studied (UTFSM) in 2020, teaching the course Computational Statistics and Artificial Neural Networks.
 
 ##### More interested in my profile?
 
-Here I share the different areas where I had working on:
+Here I share the different areas where I had worked:
 
 * Artificial Intelligence for Earth Observation :satellite:: I started to explore this topic at the start of my PhD inside the [ESALab group](https://www.ai4eo-factory.de/en-index.html) at DFKI under the supervision of Professor [Andreas Dengel](https://www.dfki.uni-kl.de/~dengel/indexEng.php) and co-supervisor Diego Arenas.
 > Survey Paper (under review): [Arxiv preprint](https://arxiv.org/abs/2301.01200)  
@@ -31,7 +31,7 @@ Here I share the different areas where I had working on:
 
 * Crowdsourcing: I started to explore this topic during my Master's thesis under the supervision of Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:  
 > Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)  (1st author, [preprint](https://www.researchgate.net/publication/347461451_Collective_annotation_patterns_in_learning_from_crowds), [code](https://github.com/FMena14/MixtureofGroups))  
-> Conference Paper: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_46) (1st author, [slides](./presentations/2019_CIARP_CMM.pdf))  
+> Conference Paper: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_46) (1st author, [preprint](https://www.researchgate.net/publication/336816127_Revisiting_Machine_Learning_from_Crowds_a_Mixture_Model_for_Grouping_Annotations), [slides](./presentations/2019_CIARP_CMM.pdf))  
 > Small library: [PyLearningCrowds](https://github.com/fmenat/PyLearningCrowds)  
 
 * Astroinformatics: I started to explore this topic during my involvement with ChiVO and with the collaboration of Professor [Marcelo Araya](https://www.inf.utfsm.cl/~maray/wiki/doku.php). You can find my different contributions to the scientific community here:  
@@ -40,5 +40,5 @@ Here I share the different areas where I had working on:
 
 * Similarity Search: I started to explore this topic in a course project of Professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295) and with a recent collaboration with the Univ. of Bologna. You can find my different contributions to the scientific community here:  
 > Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013) (1st author, [preprint](https://www.researchgate.net/publication/347462953_Interpretable_and_effective_hashing_via_Bernoulli_variational_auto-encoders), [code](https://github.com/fmenat/DiscreteVAE))  
-> Conference papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12)  (1st author, [slides](./presentations/2019_CIARP_BVAE.pdf)), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  ( [preprint](https://arxiv.org/abs/2007.08799), [slides](./presentations/2021_CIARP_SSBVAE.pdf), [code](https://github.com/amacaluso/SSB-VAE))  
+> Conference papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12)  (1st author, [preprint](https://www.researchgate.net/publication/336823794_A_Binary_Variational_Autoencoder_for_Hashing),[slides](./presentations/2019_CIARP_BVAE.pdf)), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  ( [preprint](https://arxiv.org/abs/2007.08799), [slides](./presentations/2021_CIARP_SSBVAE.pdf), [code](https://github.com/amacaluso/SSB-VAE))  
 
