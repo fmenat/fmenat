@@ -11,7 +11,7 @@
 * :computer: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
 * :busts_in_silhouette: __[Twitter](https://twitter.com/fmenat14)__
 
-> Currently, you can reach me at:mailbox_with_mail: *f.menat@rptu.de* | *francisco_alejandro.mena_toro@dfki.de*
+> Currently, you can reach me at:mailbox_with_mail: *f.menat@rptu.de* | *francisco.mena@dfki.de*
 ---
 
 Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
