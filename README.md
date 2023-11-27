@@ -3,8 +3,6 @@
 
 ```Computer Science PhD candidate at University of Kaiserslautern-Landau (RPTU) & Research Assistance at the German Research Centre for Artificial Intelligence (DFKI)``` :de:
 
-> [Profile](https://fmenat.github.io)
-
 ---
 
 ## Interested in my research?
@@ -30,4 +28,8 @@ Here I share the different areas where I have worked:
 * Similarity Search: I started to explore this topic in a course project of Professor [Marcelo Mendoza](https://www.inf.utfsm.cl/~mmendoza/) and further development with Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295) and with a recent collaboration with the Univ. of Bologna. You can find my different contributions to the scientific community here:  
 > Journal paper: [IDA 20'](https://doi.org/10.3233/IDA-200013) (1st author, [preprint](https://www.researchgate.net/publication/347462953_Interpretable_and_effective_hashing_via_Bernoulli_variational_auto-encoders), [code](https://github.com/fmenat/DiscreteVAE))  
 > Conference papers: [CIARP 19'](https://doi.org/10.1007/978-3-030-33904-3_12)  (1st author, [preprint](https://www.researchgate.net/publication/336823794_A_Binary_Variational_Autoencoder_for_Hashing),[slides](./presentations/2019_CIARP_BVAE.pdf)), [CIARP 21'](http://dx.doi.org/10.1007/978-3-030-93420-0_25)  ( [preprint](https://arxiv.org/abs/2007.08799), [slides](./presentations/2021_CIARP_SSBVAE.pdf), [code](https://github.com/amacaluso/SSB-VAE))  
+
+---
+
+More in my [website](https://fmenat.github.io).
 
