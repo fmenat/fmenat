@@ -1,11 +1,9 @@
 ## Hi there 👋, I am Francisco Mena
 ---
 
-```PhD candidate in Computer Science at University of Kaiserslautern-Landau (RPTU) & part-time working at German Research Centre for Artificial Intelligence (DFKI) in Germany``` :de:
-> MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)  
->> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
+```PhD candidate in Computer Science at University of Kaiserslautern-Landau (RPTU) & part-time working at German Research Centre for Artificial Intelligence (DFKI)``` :de:
 
-[profile](https://fmenat.github.io)
+> [profile](https://fmenat.github.io)
 
 ---
 
