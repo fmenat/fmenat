@@ -5,24 +5,15 @@
 > MSc in Informatics Engineering (USM, Chile) | BSc in Informatics Engineering (USM, Chile)  
 >> Former part-time Lecturer at *Federico Santa María Technical University* (USM, Chile) 
 
-#### Links 
-* :microscope: __[ResearchGate](https://www.researchgate.net/profile/Francisco-Mena-3)__ |  __[LinkedIN](https://www.linkedin.com/in/fmenat/)__ |  :office: __[Working Profile](https://www.dfki.de/en/web/about-us/employee/person/frme01)__
-* :mortar_board: __[Google Scholar](https://scholar.google.com/citations?user=jl736ssAAAA)__ | __[ORCID 0000-0002-5004-6571](https://orcid.org/0000-0002-5004-6571)__ | :books: __[Zotero](https://www.zotero.org/fmenat)__
-* :computer: __[Gitlab](https://gitlab.com/fmena14/)__ | __[Github](https://github.com/fmenat)__
-* :busts_in_silhouette: __[Twitter](https://twitter.com/fmenat14)__
+[profile](https://fmenat.github.io)
 
-> Currently, you can reach me at:mailbox_with_mail: *f.menat@rptu.de* | *francisco.mena@dfki.de*
 ---
 
-Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
+## Interested in my research?
 
-### Want to know me a bit more?
+> Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
 
-Francisco Mena is a Master of Science (MSc) graduate from Federico Santa María Technical University (UTFSM, in Chile) where he also studied for his Bachelor of Science in the field of Computer Engineering specializing in Artificial Intelligence. Always interested in building automated systems that help society, he joined the Chilean Virtual Observatory (CHiVO) during his undergraduate studies in 2017. Later during the Master's program (from 2018) he explored three different areas using Artificial Intelligence: Crowdsourcing, Astroinformatics, and Information Retrieval (Similarity Search). Once he obtained his Master's degree he started working as a Part-time Lecturer at the same institution where he studied (UTFSM) in 2020, teaching the course Computational Statistics and Artificial Neural Networks.
-
-##### More interested in my profile?
-
-Here I share the different areas where I had worked:
+Here I share the different areas where I have worked:
 
 * Artificial Intelligence for Earth Observation :satellite:: I started to explore this topic at the start of my PhD inside the [ESALab group](https://www.ai4eo-factory.de/en-index.html) at DFKI under the supervision of Professor [Andreas Dengel](https://www.dfki.uni-kl.de/~dengel/indexEng.php) and co-supervisor Diego Arenas.
 > Survey Paper (under review): [Arxiv preprint](https://arxiv.org/abs/2301.01200)  
