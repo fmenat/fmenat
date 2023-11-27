@@ -1,15 +1,15 @@
 ## Hi there 👋, I am Francisco Mena
 ---
 
-```PhD candidate in Computer Science at University of Kaiserslautern-Landau (RPTU) & part-time working at German Research Centre for Artificial Intelligence (DFKI)``` :de:
+```Computer Science PhD candidate at University of Kaiserslautern-Landau (RPTU) & Research Assistance at the German Research Centre for Artificial Intelligence (DFKI)``` :de:
 
-> [profile](https://fmenat.github.io)
+> [Profile](https://fmenat.github.io)
 
 ---
 
 ## Interested in my research?
 
-> Into Artificial Intelligence for Earth Observation (AI4EO) :satellite:.
+```Into Artificial Intelligence for Earth Observation (AI4EO) :satellite: ```
 
 Here I share the different areas where I have worked:
 
