@@ -9,7 +9,7 @@
 
 ## Interested in my research?
 
-```Into Artificial Intelligence for Earth Observation (AI4EO) :satellite: ```
+```Into Artificial Intelligence for Earth Observation (AI4EO)``` :satellite:
 
 Here I share the different areas where I have worked:
 
