@@ -12,9 +12,9 @@
 Here I share the different areas where I have worked:
 
 * Artificial Intelligence for Earth Observation :satellite:: I started to explore this topic at the start of my PhD inside the [ESALab group](https://www.ai4eo-factory.de/en-index.html) at DFKI under the supervision of Professor [Andreas Dengel](https://www.dfki.uni-kl.de/~dengel/indexEng.php) and co-supervisor Diego Arenas.
-> Survey Paper (under review): [Arxiv preprint](https://arxiv.org/abs/2301.01200)  
+> Survey Paper on Journal: [JSTARS](https://doi.org/10.1109/JSTARS.2024.3361556)  
 > Conference paper: on Crop Classification [IGARSS 23'](https://ieeexplore.ieee.org/document/10282138) (1st author, [preprint](https://arxiv.org/abs/2308.05407), [slides](./presentations/2023_IGARSS_MVC.pdf) , [code](https://github.com/fmenat/MultiviewCropClassification)), on Crop Yield Prediction [IGARSS 23'](https://ieeexplore.ieee.org/document/10282318/) (3rd author, [preprint](https://arxiv.org/abs/2308.08948), [slides](./presentations/2023_IGARSS_IFYieldPred.pdf))  
-> Summary of PhD research: [Poster 2023](./posters/2023_Poster_PhD.pdf)
+> Summary of PhD research during 2023: [Poster](./posters/2023_Poster_PhD.pdf)
 
 * Crowdsourcing: I started to explore this topic during my Master's thesis under the supervision of Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:  
 > Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)  (1st author, [preprint](https://www.researchgate.net/publication/347461451_Collective_annotation_patterns_in_learning_from_crowds), [code](https://github.com/FMena14/MixtureofGroups))  
