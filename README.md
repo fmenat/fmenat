@@ -12,10 +12,10 @@
 Here I share the different areas where I have worked:
 
 * Artificial Intelligence for Earth Observation :satellite:: I started to explore this topic at the start of my PhD inside the [ESALab group](https://www.ai4eo-factory.de/en-index.html) at DFKI under the supervision of Professor [Andreas Dengel](https://www.dfki.uni-kl.de/~dengel/indexEng.php) and co-supervisor Diego Arenas.
-> Survey Paper on Journal: [JSTARS](https://doi.org/10.1109/JSTARS.2024.3361556)  
+> Survey Paper on [JSTARS](https://doi.org/10.1109/JSTARS.2024.3361556) 
 > Conference paper: on Crop Classification [IGARSS 23'](https://ieeexplore.ieee.org/document/10282138) (additional material: [preprint](https://arxiv.org/abs/2308.05407), [slides](./presentations/2023_IGARSS_MVC.pdf) , [code](https://github.com/fmenat/MultiviewCropClassification)), on Crop Yield Prediction [IGARSS 23'](https://ieeexplore.ieee.org/document/10282318/) (additional material:  [preprint](https://arxiv.org/abs/2308.08948), [slides](./presentations/2023_IGARSS_IFYieldPred.pdf))  
-> Summary of PhD research during 2023: [Poster](./posters/2023_Poster_PhD.pdf)  
-> Missing Views: [IGARSS 24](https://www.2024.ieeeigarss.org/) ([paper](https://arxiv.org/abs/2403.14297), [slides](), [code](https://github.com/fmenat/missingviews-study-EO)), [ICLR workshop](https://ml-for-rs.github.io/iclr2024/) ([paper](), [poster](./posters/2024_missing_analysis.pdf), [code](https://github.com/fmenat/missingviews-study-EO))
+> Missing Views: [IGARSS 24](https://arxiv.org/abs/2403.14297) (additional material: [slides](), [code](https://github.com/fmenat/missingviews-study-EO)), [ICLR workshop](https://ml-for-rs.github.io/iclr2024/) (additional material: [poster](./posters/2024_missing_analysis.pdf), [code](https://github.com/fmenat/missingviews-study-EO))
+> Small library: [MVLearning](https://github.com/fmenat/mvlearning)
 
 * Crowdsourcing: I started to explore this topic during my Master's thesis under the supervision of Professor [Ricardo Ñanculef](https://investigadores.anid.cl/es/public_search/researcher?id=18295). You can find my different contributions to the scientific community here:  
 > Journal Paper:  [IDA 20'](https://doi.org/10.3233/IDA-200009)  (additional material:  [preprint](https://www.researchgate.net/publication/347461451_Collective_annotation_patterns_in_learning_from_crowds), [code](https://github.com/FMena14/MixtureofGroups))  
