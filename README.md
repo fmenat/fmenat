@@ -1,7 +1,6 @@
-## Hi there 👋, I am Francisco Mena
----
+## Hi there 👋, I'm Francisco Mena
 
-> ```Researcher at GFZ Helmholtz Centre for Geoscience ``` :de:
+```Researcher at GFZ Helmholtz Centre for Geoscience ``` :de:
 
-```Into Artificial Intelligence for Earth Observation (AI4EO)``` :satellite:
+> ```Into Artificial Intelligence for Earth Observation (AI4EO)``` :satellite:
 
